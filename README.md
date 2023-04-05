@@ -21,9 +21,10 @@ npm run build
 npm run lint
 ```
 
-3. Feito isso, o aplicativo do frontend deve iniciar na porta 8081, para acessar o front acesse: localhost:8081
+3. Feito isso, o aplicativo do front-end deve iniciar na porta 8081, para acessar o front acesse: localhost:8081
 
 ## Como rodar o Back-end:
+> **Warning**: É importante que o back-end rode antes, caso contrário, pode acontecer do front iniciar na porta 8080, que já está configurada para o servidor do back-end
 1. Tenha o STS (Spring Tool Suit 4) instalado.
 2. Importe o back-end utilizando o menu "File > Import > Projects from folder or Archives"
 3. Com o botão direito na classe principal ou na pasta do projeto, clique em "Run As > Spring Boot Application"
