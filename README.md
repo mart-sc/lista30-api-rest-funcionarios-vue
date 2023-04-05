@@ -10,7 +10,7 @@
 5. Com o servidor do backend rodando na porta 8080, você pode acessar a API REST de funcionários em: localhost:8080/api/funcionarios
 
 ## Como rodar o Front-end:
-1. Tenha o VS Code instalado, abra a pasta do front no VS code (File > Open Folder > front_end_funcionarios_vue)
+1. Tenha o VS Code instalado, abra a pasta do front no VS code (File > Open Folder > front_end_funcionarios)
 2. Execute os seguintes comandos no terminal (Ctrl + '):
 
 ```
